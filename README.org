@@ -1,0 +1,10 @@
+* fs-watcher
+
+Watches for filesystem changes.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Ralt/fs-watcher.git   |
+| commit  | 1c47fdd  |
+| systems | fs-watcher |
+|---------+-------------------------------------------|
+
